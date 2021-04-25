@@ -37,12 +37,12 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <br/><br/>
 
 <h4>Database applications</h4>
-<a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
 <a href="https://www.postgresql.org/docs/13/index.html"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/postgresql.svg" align="left" height="60" width="48" ></a>
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
+<a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
 <br/><br/>
 
-<h3>Command-line interfaces && Version control</h3>
+<h4>Command-line interfaces && Version control</h4>
 <a href="https://devdocs.io/bash/" target="_blank"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
 <a href="https://docs.github.com/es" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/cloud/github.svg" align="left" height="60" width="48"></a>
