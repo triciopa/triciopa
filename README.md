@@ -3,6 +3,7 @@
 Here you can explore some info about my developer career and browse the repositories that I've worked on, or useful forks about homeworks and excercises.
 Along this readme you could be redirected to documentation or tutorials. By clicking on each icon you can navigate through the websiste that I use the most to learn and nurture the knowledge about that one in particular.
 
+-----------------------------------------------
 <h3>Languages</h3>
 This are the scripts that I've learned so far, nevertheless I keep on studying other programming languages and frameworks. 
 
@@ -10,12 +11,6 @@ This are the scripts that I've learned so far, nevertheless I keep on studying o
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="48" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="48" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="48" width="48" ></a>
-<br/><br/>
-
-<h4>Soon to learn:</h4>
-<a href="https://docs.python.org/3/"><img alt="Python" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/python.svg" align="left" height="60" width="32" ></a>
-<a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/typescript.svg" align="left" height="60" width="32" ></a>
-<a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/java.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
 
 <h3>Frameworks and libraries</h3>
@@ -37,6 +32,17 @@ This are the scripts that I've learned so far, nevertheless I keep on studying o
 <a href="https://devdocs.io/bash/"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
 <a href="https://docs.github.com/es"><img alt="GitHub" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/cloud/github.svg" align="left" height="60" width="48" ></a>
+<br/><br/>
+
+-----------------------------------------------
+<h3>Coming soon:</h3>
+<p>These technologies are in the learning process</p>
+
+<a href="https://docs.python.org/3/"><img alt="Python" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/python.svg" align="left" height="60" width="32" ></a>
+<a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/typescript.svg" align="left" height="60" width="32" ></a>
+<a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/java.svg" align="left" height="60" width="48" ></a>
+<a href="https://graphql.org/learn/"><img alt="GraphQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/graphql.svg" align="left" height="60" width="32" ></a>
+
 <br/><br/>
 
 
