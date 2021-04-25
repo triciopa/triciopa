@@ -29,9 +29,9 @@ This are the scripts that I've learned so far, nevertheless I keep on studying o
 <br/><br/>
 
 <h3>Command-line interfaces && Version control</h3>
-<a href="https://devdocs.io/bash/"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
-<a href="https://git-scm.com/docs/gittutorial"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
-<a href="https://docs.github.com/es"><img alt="GitHub" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/cloud/github.svg" align="left" height="60" width="48" ></a>
+<a href="https://devdocs.io/bash/" target="_blank"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
+<a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
+<a href="https://docs.github.com/es" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/cloud/github.svg" align="left" height="60" width="48"></a>
 <br/><br/>
 
 -----------------------------------------------
@@ -45,9 +45,9 @@ This are the scripts that I've learned so far, nevertheless I keep on studying o
 
 <br/><br/>
 
-
-
-
+<h3>Contact me:</h3>
+<a href="https://www.linkedin.com/in/patricio-alejandro-gatti/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" align="left" height="60" width="32" ></a>
+<a href="mailto:contacto@patriciogatti.ar"><img alt="E-mail" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg" align="left" height="60" width="32" ></a>
 
 <!--
 **triciopa/triciopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
