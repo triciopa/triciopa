@@ -42,10 +42,12 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
 <br/><br/>
 
-<h4>Command-line interfaces && Version control</h4>
+<h4>Command-line interfaces, Version control and Text editors</h4>
 <a href="https://devdocs.io/bash/" target="_blank"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
 <a href="https://git-scm.com/docs/gittutorial" target="_blank"><img alt="Git" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/git.svg" align="left" height="60" width="60" ></a>
 <a href="https://docs.github.com/es" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/cloud/github.svg" align="left" height="60" width="48"></a>
+<a href="https://marketplace.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/editors/vscode.svg" align="left" height="60" width="32"></a>
+<a href="https://flight-manual.atom.io/getting-started/sections/summary/" target="_blank"><img alt="Atom" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/editors/atom.svg" align="left" height="60" width="32"></a>
 
 <br/><br/>
 -----------------------------------------------
@@ -61,20 +63,18 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <br/><br/>
 
 -----------------------------------------------
+<h3>Agile methodologies:</h3>
+<p>Over the last years, I've managed to use <b>Agile</b> in my teams, combining <b>Scrum</b> and <b>Kanban</b> to deliver in time and always pursuing the improvement of every feature or product. After using Trello, Asana, and others, I chose <b>Jira software</b> for my recent project because I think it is more complete than others and reports are very useful for managing time and resources.</p>
+
+<a href="https://www.scrum.org/resources/blog"><img alt="Scrum" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/scrumorg-1.svg" align="left" height="60" width="60" ></a>
+<a href="https://www.atlassian.com/es/software/jira"><img alt="Jira" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/jira-1.svg" align="left" height="60" width="32" ></a>
+
+<br/><br/>
+
+-----------------------------------------------
 <h3>Contact me:</h3>
-<a href="https://www.linkedin.com/in/patricio-alejandro-gatti/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" align="left" height="60" width="32" ></a>
-<a href="mailto:contacto@patriciogatti.ar"><img alt="E-mail" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg" align="left" height="60" width="32" ></a>
+<a href="https://www.linkedin.com/in/patricio-alejandro-gatti/"><img alt="LinkedIn" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/linkedin-icon-2.svg" align="left" height="60" width="32" >LinkedIn profile</a>
 
-<!--
-**triciopa/triciopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:contacto@patriciogatti.ar"><img alt="E-mail" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/email.svg" align="left" height="60" width="32" >E-mail address</a>
