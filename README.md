@@ -27,8 +27,7 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
-<a href="https://sass-lang.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/sass-1.svg
-" align="left" height="60" width="48" ></a>
+<a href="https://sass-lang.com/"><img alt="SASS" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/sass-1.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
 
 <h4>Frameworks and libraries</h4>
