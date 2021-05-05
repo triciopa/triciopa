@@ -21,10 +21,14 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <h3>Languages</h3>
 <p>This are the scripts that I've learned so far, nevertheless I keep on studying other programming languages and frameworks.</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="48" width="48" ></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="48" width="48" ></a>
-<a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="48" width="48" ></a>
-<a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="48" width="48" ></a>
+<h4>Basic Web Languages and Compilators</h4>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="60" width="48" ></a>
+<a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
+<a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="60" width="48" ></a>
+<br/><br/>
+<a href="https://sass-lang.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/sass-1.svg
+" align="left" height="60" width="48" ></a>
 <br/><br/>
 
 <h4>Frameworks and libraries</h4>
