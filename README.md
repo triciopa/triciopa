@@ -19,10 +19,11 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 
 -----------------------------------------------
 <h3>Languages</h3>
-<p>This are the scripts that I've learned so far, nevertheless I keep on studying other programming languages and frameworks.</p>
+<p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
 
 <h4>Basic Web Languages and Compilators</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
+<a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/typescript.svg" align="left" height="60" width="48" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="60" width="48" ></a>
@@ -56,10 +57,8 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 -----------------------------------------------
 
 <h3>Coming soon:</h3>
-<p>These technologies are in the learning process</p>
 
 <a href="https://docs.python.org/3/"><img alt="Python" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/python.svg" align="left" height="60" width="32" ></a>
-<a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/typescript.svg" align="left" height="60" width="32" ></a>
 <a href="https://docs.oracle.com/en/java/"><img alt="Java" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/java.svg" align="left" height="60" width="48" ></a>
 <a href="https://graphql.org/learn/"><img alt="GraphQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/graphql.svg" align="left" height="60" width="32" ></a>
 
