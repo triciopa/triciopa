@@ -32,6 +32,7 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <h4>Frameworks and libraries</h4>
 <a href="https://reactjs.org/docs/hello-world.html"><img alt="React" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/react.svg" align="left" height="60" width="48" ></a>
 <a href="https://redux.js.org/tutorials/essentials/part-1-overview-concepts"><img alt="Redux" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/redux.svg" align="left" height="60" width="48" ></a>
+<a href="https://angular.io/docs"><img alt="Angular" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/angular.svg" align="left" height="60" width="48" ></a>
 <a href="https://nodejs.org/dist/latest-v14.x/docs/api/"><img alt="Node" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/nodejs.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.npmjs.com/"><img alt="NPM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/npm.svg" align="left" height="60" width="60" ></a>
 <a href="https://expressjs.com/en/5x/api.html"><img alt="Express" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/expressjs2.svg"  align="left" height="60" width="60" ></a>
