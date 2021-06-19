@@ -17,6 +17,8 @@ const desire = `I'd like to participate in projects that have an impact on the w
 console.log(`Start engines, energy is: `, personalInfo.energy);
 ```
 
+[![Patricio GitHub stats](https://github-readme-stats.vercel.app/api?username=triciopa&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triciopa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 -----------------------------------------------
 <h3>Languages</h3>
 <p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
