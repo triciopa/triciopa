@@ -23,13 +23,17 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <h3>Languages</h3>
 <p>This are the scripts that I've learned so far, and those that I've used in my repositories. Nevertheless I keep on studying other programming languages and frameworks.</p>
 
-<h4>Basic Web Languages and Compilators</h4>
+<h4>Web and styling</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/javascript.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/typescript.svg" align="left" height="60" width="48" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON"><img alt="Javascript" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/json.svg" align="left" height="60" width="48" ></a>
 <a href="https://www.w3schools.com/html/default.asp"><img alt="HTML5" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/html.svg" align="left" height="60" width="48" ></a>
 <a href="https://css-tricks.com/"><img alt="CSS3" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/css.svg" align="left" height="60" width="48" ></a>
 <a href="https://sass-lang.com/"><img alt="SASS" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/sass-1.svg" align="left" height="60" width="48" ></a>
+<a href="https://mui.com/getting-started/usage/"><img alt="Material UI" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/material-ui.svg" align="left" height="48" width="48" ></a>
+<a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/"><img alt="Bootstrap" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/bootstrap.svg" align="left" height="48" width="48" ></a>
+<a href="https://ant.design/components/overview/"><img alt="Ant Design" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/ant-design.svg" align="left" height="48" width="48" ></a>
+<a href="https://styled-components.com/docs"><img alt="Styled components" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/others/styled-components-1.svg" align="left" height="48" width="48" ></a>
 <br/><br/>
 
 <h4>Frameworks and libraries</h4>
