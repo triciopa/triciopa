@@ -46,10 +46,8 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <a href="https://www.postgresql.org/docs/13/index.html"><img alt="PostgreSQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/postgresql.svg" align="left" height="60" width="48" ></a>
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
 <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
-<br/><br/>
-<a href="https://typeorm.io/#/"><img alt="TypeORM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/typeORM.svg" align="left" height="60" width="60" ></a>
-<br/><br/>
-<a href="https://redis.io/"><img alt="Redis" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/redis.svg" align="left" height="60" width="60" ></a>
+<a href="https://typeorm.io/#/"><img alt="TypeORM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/typeORM.svg" align="left" height="60" width="48" ></a>
+<a href="https://redis.io/"><img alt="Redis" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/redis.svg" align="left" height="60" width="48" ></a>
 <br/><br/>
 
 
