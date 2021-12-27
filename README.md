@@ -47,6 +47,11 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <a href="https://sequelize.org/master/"><img alt="Sequelize" src="https://github.com/triciopa/triciopa/blob/main/logos/databases/sequelize.svg" align="left" height="60" width="32" ></a>
 <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
 <br/><br/>
+<a href="https://typeorm.io/#/"><img alt="TypeORM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/typeORM.svg" align="left" height="60" width="60" ></a>
+<br/><br/>
+<a href="https://redis.io/"><img alt="Redis" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/redis.svg" align="left" height="60" width="60" ></a>
+<br/><br/>
+
 
 <h4>Command-line interfaces, Version control and Text editors</h4>
 <a href="https://devdocs.io/bash/" target="_blank"><img alt="Bash" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/languages/bash.svg" align="left" height="60" width="32" ></a>
