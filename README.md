@@ -6,10 +6,10 @@ Along this readme you could also be redirected to documentation or tutorials: By
 <h3>Three things you should to know about me</h3>
 
 ```js
-var personalInfo = { city: `Buenos Aires, Argentina`, role: `full-stack-engineer`, energy: `full`};
+var personalInfo = { city: `Buenos Aires, Argentina`, role: `full-stack developer`, energy: `full`};
 
-let objective = `I'm based in ${personaInfo.city} right now and I want to work remote full-time as
-                a ${personaInfo.role} in new challenges to expand my horizon in software engineering.`;
+let objective = `I'm based in ${personaInfo.city} right now and I work remote full-time at Magnetico as
+                a ${personaInfo.role} and growing everyday.`;
 
 const desire = `I'd like to participate in projects that have an impact on the world, to
                  change things for good through utilizing software advantages.`;
