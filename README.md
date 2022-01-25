@@ -6,7 +6,7 @@ Along this readme you could also be redirected to documentation or tutorials: By
 <h3>Three things you should to know about me</h3>
 
 ```js
-var personalInfo = { city: `Buenos Aires, Argentina`, role: `full-stack developer`, energy: `full`};
+var personalInfo = { city: `Buenos Aires, Argentina`, role: `software engineer`, energy: `full`};
 
 let objective = `I'm based in ${personaInfo.city} right now and I work remote full-time at Magnetico as
                 a ${personaInfo.role} and growing everyday.`;
@@ -52,6 +52,11 @@ console.log(`Start engines, energy is: `, personalInfo.energy);
 <a href="https://dev.mysql.com/doc/"><img alt="MySQL" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/mysql.svg" align="left" height="60" width="60" ></a>
 <a href="https://typeorm.io/#/"><img alt="TypeORM" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/typeORM.svg" align="left" height="60" width="48" ></a>
 <a href="https://redis.io/"><img alt="Redis" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/databases/redis.svg" align="left" height="60" width="48" ></a>
+<br/><br/>
+
+<h4>Testing</h4>
+<a href="https://jestjs.io/docs/getting-started" target="_blank"><img alt="Jest" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/jest.svg" align="left" height="60" width="32" ></a>
+<a href="https://www.chaijs.com/api/" target="_blank"><img alt="Chai" src="https://raw.githubusercontent.com/triciopa/triciopa/main/logos/frameworks/chai.svg" align="left" height="60" width="32" ></a>
 <br/><br/>
 
 
